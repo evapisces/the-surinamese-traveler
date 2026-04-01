@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: https://thesurinamesetraveler.net/sitemap.xml
+Sitemap: https://the-surinamese-traveler.em1419.workers.dev/sitemap.xml
 Disallow: /ghost/
 Disallow: /email/
 Disallow: /members/api/comments/counts/
